@@ -1,5 +1,6 @@
 # Super-Call
 Start Super Call
+[마크다운 설명](http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram)
 
 ###groovy-android 관련 자료
 https://speakerdeck.com/glaforge/groovy-on-android-groovy-grails-exchange-2014<br>
