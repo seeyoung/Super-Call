@@ -4,6 +4,6 @@
 
 ###groovy-android 관련 자료
 https://speakerdeck.com/glaforge/groovy-on-android-groovy-grails-exchange-2014<br>
-[groovy android with laforge](http://glaforge.appspot.com/article/groovy-on-android-at-droidcon-paris-2014)
+[groovy android with laforge](http://glaforge.appspot.com/article/groovy-on-android-at-droidcon-paris-2014) <br>
 http://docs.codehaus.org/display/GROOVY/Groovy+2.4+release+notes <br>
 https://github.com/mscharhag/groovy-android-example
